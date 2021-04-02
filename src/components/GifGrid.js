@@ -27,6 +27,3 @@ function GifGrid({ category }) {
 }
 
 export default GifGrid
-
-
-//api.giphy.com/v1/gifs/search?q=Java&limit=5&api_key=97Eqql7Sb7cgOFbQFTYf0xBYIiMLxYoc
